@@ -21,3 +21,4 @@
 #-renamesourcefileattribute SourceFile
 
 -keep class com.example.printlog.MatLab
+-keepattributes class com.example.printlog.MatLab
