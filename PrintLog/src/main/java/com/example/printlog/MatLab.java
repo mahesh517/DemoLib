@@ -4,6 +4,13 @@ public class MatLab {
 
     public int add(int a, int b) {
 
-        return a + b;
+
+        int c = addC(5);
+
+        return a + b+c;
+    }
+
+    private int addC(int c) {
+        return c;
     }
 }
