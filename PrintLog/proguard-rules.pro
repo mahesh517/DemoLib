@@ -20,5 +20,4 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 
--keep class com.example.printlog.MatLab
--keepattributes class com.example.printlog.MatLab
+-keep public class com.example.printlog.MatLab
